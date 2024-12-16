@@ -1,2 +1,5 @@
 
 /* Your CSS Code here. */
+body { font-family:poppins; font-size:13px;}
+.box-model { width:300px;  margin:0 auto;
+background:#01aebf; border:15px solid #5b49f7; padding:50px; margin:20px;}
